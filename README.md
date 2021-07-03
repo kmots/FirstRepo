@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-Its a markdow file i this repository.
+Its a markdow file in this repository.
